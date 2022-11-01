@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrilliantDecision
-- 👀 I’m interested in Frontend development and App;ication programming
+- 👀 I’m interested in Frontend development and Application programming
 - 📫 How to reach me: 8-928-256-34-56, alexmobilepost@gmail.com, tg: @AlexFisher777
 
 <!---

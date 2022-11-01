@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BrilliantDecision
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Redux
-- 💞️ I’m looking for a job in Frontend development sphere
+- 👀 I’m interested in Frontend development and App;ication programming
 - 📫 How to reach me: 8-928-256-34-56, alexmobilepost@gmail.com, tg: @AlexFisher777
 
 <!---
